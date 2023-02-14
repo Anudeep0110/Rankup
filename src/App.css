@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  scrollbar-arrow-color:blue;
+
 }
 
 .App-logo {
@@ -39,4 +41,8 @@
 
 .image:hover img {
     transform: scale(1.06);
+}
+
+.divv:hover div {
+  transform: scale(1.06);
 }
